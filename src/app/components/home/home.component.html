@@ -1,1 +1,19 @@
-<p>Olá ao meu primeiro app Angular</p>
+<h2>{{ minhaProps}}</h2>
+
+<p>
+    Olá ao meu primeiro app Angular, eu sou o
+    @if (mostrarNome) { {{ nome }} }
+    @else { anônimo }
+</p>
+<p>contador: {{ count }}</p>
+
+@if (data) {
+    <p>alma vendida {{ data }}</p>
+}
+
+<button (click)="clickCount()">clique aqui</button>
+<button (click)="submit()">vender sua alma</button>
+
+@for (item of listItens; track item) {
+    <p>{{ item }}</p>
+}
