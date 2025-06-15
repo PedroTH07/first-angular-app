@@ -1,5 +1,10 @@
-# Meu Primeiro App Angular
+# Meu Primeiro App Angular 
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular" height="100px">
+</a>
+
+<br>
 Este é o meu primeiro projeto angular! 🚀 Neste repositório vi algumas funcionalidades básicas do framework, como instalação, criação de um novo projeto, de componentes e serviços, o básico de rotas, interpolação de dados e condicionais.
 
 O angular é um framework poderoso capaz de criar aplicações SSG (Static Site Generation) e SSR (Server-Side Rendering), mas para o projeto foi feito um simples SPA (Single Page Application) para o primeiro contato com o framework.
