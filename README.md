@@ -1,4 +1,42 @@
-# MeuPrimeiroApp
+# Meu Primeiro App Angular
+
+Este é o meu primeiro projeto angular! 🚀 Neste repositório vi algumas funcionalidades básicas do framework, como instalação, criação de um novo projeto, de componentes e serviços, o básico de rotas, interpolação de dados e condicionais.
+
+O angular é um framework poderoso capaz de criar aplicações SSG (Static Site Generation) e SSR (Server-Side Rendering), mas para o projeto foi feito um simples SPA (Single Page Application) para o primeiro contato com o framework.
+
+## 🚀 Como rodar o projeto
+Siga os passos para rodar o projeto na sua máquina!
+
+### 📦 Pré-requisitos
+
+- Node.js (versão usada: 22.11)
+- Angular CLI instalado globalmente
+```bash
+npm install -g @angular/cli
+```
+
+### 🛠️ Instalação
+
+1. Clone o repostório
+```bash
+git clone https://github.com/PedroTH/first-angular-app.git
+```
+2. Instale as dependências
+```bash
+npm install
+```
+
+### ▶️ Rodando o projeto
+```bash
+npm run start
+```
+ou
+```bash
+ng serve
+```
+e acesse [http://localhost:4200/](http://localhost:4200/) no navegador
+
+## Readme gerado pelo Angular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14.
 
